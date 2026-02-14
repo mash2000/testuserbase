@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Алексей Иванов",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "createdAt": "2025-01-15T10:30:00.000Z"
+    },
+    {
+      "name": "Екатерина Смирнова",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "id": "2"
+    },
+    {
+      "name": "Дмитрий Иванов",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "id": "3"
+    },
+    {
+      "name": "Максим Ширшиков",
+      "avatar": "https://s14.pikabu.ru/images/big_size_comm/2022-03_3/1647164791197880086.jpg",
+      "id": "87cb"
+    }
+  ]
+}

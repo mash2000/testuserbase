@@ -2,11 +2,8 @@ import axios from 'axios';
 
 // Замените на ваш URL из mockapi.io
 export const axiosInstance = axios.create({
-  baseURL: 'https://65b7a6bb46324d531d54c3b1.mockapi.io/api/v1', // Ваш URL из mockapi.io
-  timeout: 10000,
-  headers: {
-    'Content-Type': 'application/json',
-  },
+  baseURL: 'http://localhost:3001', // JSON Server URL
+  timeout: 5000,
 });
 
 // Интерсептор для добавления токена
